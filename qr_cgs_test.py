@@ -1,5 +1,5 @@
 # QR CGS Test
-import homework3 as hw
+import qr_cgs as hw
 import numpy as np
 
 M = np.random.rand(3,3)
