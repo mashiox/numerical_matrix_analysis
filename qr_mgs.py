@@ -5,7 +5,7 @@
 import numpy
 import math
     
-def qr_cgs(M):
+def qr_mgs(M):
     if ( type( M ) is numpy.ndarray ):
         M = numpy.matrix(M)
     # Creates a new empty matrix same size as M
